@@ -5,3 +5,8 @@ This repository contains the code from
 
 ## Notes
 <!-- Enter your notes below -->
+
+``` bash
+pip install --requirement requirements.txt
+pip freeze --local --all > requirements-freeze.txt
+```
