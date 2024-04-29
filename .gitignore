@@ -1,0 +1,9 @@
+data/
+
+evaluation/
+.idea
+model/
+
+.venv/
+
+__pycach__/
