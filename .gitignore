@@ -1,10 +1,13 @@
-data/raw
-data/prepared
 
-evaluation/
 .idea
-model/
 
+## Python
 .venv/
 
-__pycach__/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+## DVC
+
+# DVC will add new files after this line
+/model
